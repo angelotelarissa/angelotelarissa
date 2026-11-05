@@ -19,7 +19,7 @@
 </a>
 
 </div>
-
+melhor escrever
 
 <!-- ===================================================== -->
 <!--                       ABOUT ME                        -->
@@ -125,7 +125,7 @@ src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,express,mys
 <!--              TOP PROJECTS + CONTRIBUTION              -->
 <!-- ===================================================== -->
 
-## ✦ Top Projetos e Contribuições
+## ✦ Top Projetos e Estatísticas
 
 <table>
 <tr>
@@ -208,124 +208,11 @@ escolhas, perseguições, múltiplos finais e loops temporais.
 
 <h3>🔥 Contribution</h3>
 
-<img
-width="100%"
-src="https://streak-stats.demolab.com?user=angelotelarissa&background=262423&border=402B47&stroke=7392B5&ring=8350C4&fire=7FB685&currStreakNum=C9E0EB&sideNums=C9E0EB&currStreakLabel=9FD3C7&sideLabels=7392B5&dates=7392B5&border_radius=12"
-/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=angelotelarissa&theme=dark&locale=pt_BR)
 
-<br><br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelotelarissa&show_icons=true&theme=tokyonight&include_all_commits=true)
 
-<p>
-Consistência importa mais que quantidade.
-Cada projeto é uma oportunidade de aprender algo novo.
-</p>
-
-</td>
-
-</tr>
-</table>
-
-
-<!-- ===================================================== -->
-<!--               GITHUB STATS + TECH STACK               -->
-<!-- ===================================================== -->
-
-## ✦ GitHub Stats & Tech Stack
-
-<table>
-<tr>
-
-<td width="50%" align="center" valign="top">
-
-<h3>📊 GitHub Stats</h3>
-
-<img
-width="100%"
-src="https://github-readme-stats.vercel.app/api?username=angelotelarissa&show_icons=true&include_all_commits=true&count_private=true&title_color=8350C4&text_color=C9E0EB&icon_color=7FB685&bg_color=262423&border_color=402B47&border_radius=12"
-/>
-
-<br>
-
-<img
-width="100%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelotelarissa&layout=compact&langs_count=8&title_color=8350C4&text_color=C9E0EB&bg_color=262423&border_color=402B47&border_radius=12"
-/>
-
-</td>
-
-<td width="50%" align="center" valign="top">
-
-<h3>💻 Tech Stack</h3>
-
-<br>
-
-<img src="https://img.shields.io/badge/React-262423?style=for-the-badge&logo=react&logoColor=9FD3C7">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/JavaScript-402B47?style=for-the-badge&logo=javascript&logoColor=C9E0EB">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Node.js-4F7A65?style=for-the-badge&logo=nodedotjs&logoColor=white">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Express-262423?style=for-the-badge&logo=express&logoColor=C9E0EB">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/PostgreSQL-7392B5?style=for-the-badge&logo=postgresql&logoColor=white">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/MySQL-402B47?style=for-the-badge&logo=mysql&logoColor=white">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Docker-8350C4?style=for-the-badge&logo=docker&logoColor=white">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Git-4F7A65?style=for-the-badge&logo=git&logoColor=white">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Unity-262423?style=for-the-badge&logo=unity&logoColor=C9E0EB">
-
-</td>
-
-</tr>
-</table>
-
-
-<!-- ===================================================== -->
-<!--                    ACTIVITY GRAPH                     -->
-<!-- ===================================================== -->
-
-## ✦ Activity Graph
-
-<table>
-<tr>
-
-<td width="72%" align="center" valign="middle">
-
-<img
-width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=angelotelarissa&bg_color=262423&color=C9E0EB&title_color=8350C4&line=7FB685&point=9FD3C7&area=true&area_color=402B47&border_color=402B47&radius=12&custom_title=Contribution%20Activity"
-/>
-
-</td>
-
-<td width="28%" align="center" valign="middle">
-
-<img
-src="./assets/herta2.jpg"
-width="220px"
-alt="Activity illustration"
-/>
-
-</td>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelotelarissa&layout=compact&theme=tokyonight&langs_count=8)
 
 </tr>
 </table>
@@ -349,10 +236,7 @@ projetos ou simplesmente trocar ideias criativas, pode me encontrar por aqui:
 <a href="SEU_LINK_DO_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-7392B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://github.com/angelotelarissa">
-<img src="https://img.shields.io/badge/GitHub-402B47?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:angelote.work@gmail.com">
 <img src="https://img.shields.io/badge/Email-4F7A65?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="LINK_DO_SEU_PORTFOLIO">
@@ -361,26 +245,6 @@ projetos ou simplesmente trocar ideias criativas, pode me encontrar por aqui:
 
 </div>
 
-
-<!-- ===================================================== -->
-<!--                   RANDOM DEV QUOTE                    -->
-<!-- ===================================================== -->
-
-## ✦ Random Dev Quote
-
-<div align="center">
-
-<br><br>
-<img
-width="70%"
-src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&quoteColor=C9E0EB&authorColor=9FD3C7&backgroundColor=262423&symbolColor=8350C4"
-/>
-<br><br>
-<sub>
-✦ Code • Create • Learn • Repeat ✦
-</sub>
-
-</div>
 
 
 <!-- ===================================================== -->
@@ -391,11 +255,13 @@ src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&quo
 
 ---
 
-<div align="center">
 
+
+<img src="./assets/bannerherta.jpg" width="100%" alt="Banner Larissa">
+
+<div align="center"> 
+  
 <img src="https://img.shields.io/badge/Made%20with%20♡-8350C4?style=flat-square">
-
-<br><br>
 
 <sub>
 Larissa • Computer Science • Full Stack Development
